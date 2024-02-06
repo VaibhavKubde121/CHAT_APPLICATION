@@ -1,8 +1,9 @@
-# Snappy - Chat Application 
-Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
+# PluseTalk - Chat Application 
+PulseTalk is chat application build with the power of MERN Stack.
 
 
-![login page](./images/snappy_login.png)
+![login page](![Screenshot 2024-02-06 102151](https://github.com/VaibhavKubde121/CHAT_APPLICATION/assets/113769045/9bebe91a-a3a6-48d6-85e2-80c9d5f5c1f6))
+
 
 ![home page](./images/snappy.png)
 
